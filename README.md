@@ -1,3 +1,3 @@
-# My-Amazon-clone
-Be a part of the project by ⭐️(star) & ⑂(forking) this project
-#### (https://kailash51.github.io/My-Amazon-clone/)
+# Amazon-clone
+This is an e-commerce website, an Amazon clone, developed using HTML and CSS for a seamless online shopping experience.
+#### (https://amazon-clone-tau-taupe.vercel.app/)
